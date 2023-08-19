@@ -1,6 +1,6 @@
 - 👋 Hi, I’m I’m @GenesisVarelli
 - 👀 I’m interested in HTML, CSS and JavaScript
-- 💼 Feel free to check out my design work on behance.net <a>https://www.behance.net/richardogujawa</a>
+- 💼 Feel free to check out my work on my portfolio website <a>https://www.genesisvarelli.com</a>
 - 📫 Genvarelli@outlook.com
 
 <!---
