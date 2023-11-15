@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @GenesisVarelli
-- 👀 I’m interested in HTML, CSS and JavaScript
+- 👀 I’m interested in Excel, SQL, PowerBI, Python
 - 💼 Feel free to check out my work on my portfolio website <a>https://genesisvarelli.com</a>
-- 📫 Genvarelli@outlook.com
+- 📫 Gencodes@hotmail.com
 
 <!---
 GenesisVarelli/GenesisVarelli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
