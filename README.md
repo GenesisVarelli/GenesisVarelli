@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @GenesisVarelli
-- 👀 I’m interested in Excel, SQL, PowerBI, Python
+- 👀 I’m interested in Python
 - 💼 Feel free to check out my work on my portfolio website <a>https://genesisvarelli.com</a>
 
 <!---
