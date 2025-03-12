@@ -7,7 +7,7 @@
 ---
 
 ### **🛡️ About Me**  
-🔹 **Cybersecurity & SOC Analyst Professional** – Currently studying the **Google Cybersecurity Professional Certificate** and pursuing the **CompTIA Security+ Certificate**.  
+🔹 **Cybersecurity & SOC Analyst Professional** – Currently studying the **LetsDefend SOC Analyst Learning Path** and buidling a **Home Lab: Real-World Security Monitoring & Threat Detection** project.  
 🔹 **Security & Protection Certified** – Security Industry Authority (SIA) License | Executive Protection & First Aid Certified.  
 
 ---
@@ -32,7 +32,7 @@
 ---
 
 ### **📫 Let's Connect**  
-🔗 [LinkedIn](https://www.linkedin.com/in/YOUR_USERNAME)  
+🔗 [LinkedIn](https://www.linkedin.com/in/genesisvarelli/) 
 🔗 [GitHub](https://github.com/GenesisVarelli)  
 🔗 [Instagram](https://instagram.com/GenesisVarelli)  
 
