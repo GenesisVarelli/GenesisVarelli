@@ -60,6 +60,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 <div>
 <img src="https://img.shields.io/badge/-Let'sDefend%20SOC%20Analyst-1f8ef1?&style=for-the-badge&logo=letsdefend&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM%20Agile%20&%20Scrum-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
+<img src="https://img.shields.io/badge/-Emergency%20First%20Aid%20at%20Work-008000?&style=for-the-badge&logo=first-aid&logoColor=white" />
 
 </div>
 
