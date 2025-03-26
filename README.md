@@ -26,7 +26,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 ---
 
-## **Skills**
+## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
