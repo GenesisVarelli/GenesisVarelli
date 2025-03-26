@@ -3,17 +3,16 @@
   <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
 </a>
 
-
 <a href="https://github.com/genesisvarelli">
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
-
 
 <a href="https://www.instagram.com/genesisvarelli/">
   <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
 </a>
 
 🚀 **SOC Analyst | Cybersecurity Professional**
+
 ---
 
 ### **🛡️ About Me**  
@@ -84,12 +83,6 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 ---
 ## Projects
-- Home Lab
-- SOC Automation Project
-
-### **📫 Let's Connect**  
-🔗 [LinkedIn](https://www.linkedin.com/in/genesisvarelli/) 
-🔗 [GitHub](https://github.com/GenesisVarelli)  
-🔗 [Instagram](https://instagram.com/GenesisVarelli)  
-
+- **Home Lab: Real-World Security Monitoring & Threat Detection**
+- **Cybersecurity Comprehensive Risk Assessment**
 ---
