@@ -27,7 +27,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 ---
 
-## **Skills**
+## **🚀 Skills**
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -43,7 +43,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 ---
 
-## Tools
+## **🛠️ Tools**
 ### SIEM & Log Analysis
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
@@ -51,7 +51,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
     <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
 </div>
 
-### Network
+### **🌐 Network**
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
@@ -59,7 +59,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 </div>
 
 ---
-## Certifications
+## **🎓 Certifications**
 <div>
 <img src="https://img.shields.io/badge/-Let'sDefend%20SOC%20Analyst-1f8ef1?&style=for-the-badge&logo=letsdefend&logoColor=white" />
 <img src="https://img.shields.io/badge/-IBM%20Agile%20&%20Scrum-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
@@ -68,7 +68,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 </div>
 
 ---
-## Projects
+## **🌟 Projects**
 - <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">**Home Lab: Real-World Security Monitoring & Threat Detection**</a>
 - <a href="https://github.com/GenesisVarelli/DATACOM-Comprehensive-Risk-Assessment">**Cybersecurity Comprehensive Risk Assessment**</a>
 ---
