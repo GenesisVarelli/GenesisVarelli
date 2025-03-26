@@ -16,8 +16,6 @@
 ---
 
 ### **🛡️ About Me**  
-🔹 **Cybersecurity & SOC Analyst Professional** – Currently studying the **LetsDefend SOC Analyst Learning Path** and buidling a **Home Lab: Real-World Security Monitoring & Threat Detection** project.  
-🔹 **Security & Protection Certified** – Security Industry Authority (SIA) License | Executive Protection & First Aid Certified.  
 Cybersecurity professional with a Computer Science background and a strong focus on Security Operations (SOC), Threat Detection, and Incident Response. 
 Skilled in log analysis, SIEM tools (Splunk, Microsoft Sentinel), and network security, with hands-on experience in cyber threat intelligence and risk analysis. 
 Passionate about protecting organisations from cyber threats, ensuring compliance, and strengthening security postures with a proactive, results-driven approach.
