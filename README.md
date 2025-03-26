@@ -28,7 +28,6 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 ---
 
 ## **Skills**
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -60,7 +59,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 ## Certifications
 <div>
 <img src="https://img.shields.io/badge/-Let'sDefend%20SOC%20Analyst-1f8ef1?&style=for-the-badge&logo=letsdefend&logoColor=white" />
-
+<img src="https://img.shields.io/badge/-IBM%20Agile%20&%20Scrum-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
 
 </div>
 
