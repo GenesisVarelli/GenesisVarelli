@@ -1,7 +1,16 @@
-# Hello, I'm CHANGEME
-<a href="https://www.linkedin.com/in/genesisvarelli/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-🚀 **Cybersecurity Professional | SOC Analyst | Digital Nomad-to-Be**  
+# Hello, I'm Genesis Varelli
+<a href="https://www.linkedin.com/in/genesisvarelli/">
+  <img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 
+<a href="https://github.com/genesisvarelli">
+  <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
+</a>
+
+<a href="https://www.instagram.com/genesisvarelli/">
+  <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+🚀 **SOC Analyst | Cybersecurity Professional**
 ---
 
 ### **🛡️ About Me**  
