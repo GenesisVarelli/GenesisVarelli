@@ -32,8 +32,8 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
+| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
@@ -58,17 +58,14 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 ---
 ## Certifications
-[Provide certifications that you have obtained. Use ChatGPT to help create the link - Remove this afterwards]]
 <div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" />
-<img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/-Let'sDefend%20SOC%20Analyst-1f8ef1?&style=for-the-badge&logo=letsdefend&logoColor=white" />
+
+
 </div>
 
 ---
 ## Projects
-- **Home Lab: Real-World Security Monitoring & Threat Detection**
-- **Cybersecurity Comprehensive Risk Assessment**
+- <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">**Home Lab: Real-World Security Monitoring & Threat Detection**</a>
+- <a href="https://github.com/GenesisVarelli/DATACOM-Comprehensive-Risk-Assessment">**Cybersecurity Comprehensive Risk Assessment**</a>
 ---
