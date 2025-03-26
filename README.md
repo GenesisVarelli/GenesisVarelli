@@ -31,12 +31,15 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="">Detection Lab</a>|
-| Security Automation with Shuffle SOAR         | SOC Automation Lab|
-| Incident Response Planning and Execution      | SOC Automation Lab|
-| Case Management with TheHive                  | SOC Automation Lab|
-| Scripting and Automation for Threat Mitigation | SOC Automation Lab|
+| SIEM Implementation & Log Analysis           | <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">Detection Lab</a>              |
+| Network Traffic Analysis & Threat Detection  | <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">Detection Lab</a>              |
+| IDS/IPS Deployment & Alert Tuning            | <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">Detection Lab</a>              |
+| Threat Hunting & Anomaly Detection           | Threat Analysis Lab        |
+| Incident Response & Forensic Investigation   | SOC Investigation Lab      |
+| Security Automation & Playbook Development   | SOC Automation Lab         |
+| Risk Assessment & Mitigation Strategies      | <a href="https://github.com/GenesisVarelli/DATACOM-Comprehensive-Risk-Assessment">Risk Assessment Lab</a>        |
+| Scripting & Process Automation               | SOC Automation Lab         |
+
 
 ---
 
