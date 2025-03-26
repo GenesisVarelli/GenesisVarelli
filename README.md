@@ -17,6 +17,7 @@
 Cybersecurity professional with a Computer Science background and a strong focus on Security Operations (SOC), Threat Detection, and Incident Response. 
 Skilled in log analysis, SIEM tools (Splunk, Microsoft Sentinel), and network security, with hands-on experience in cyber threat intelligence and risk analysis. 
 Passionate about protecting organisations from cyber threats, ensuring compliance, and strengthening security postures with a proactive, results-driven approach.
+
 ---
 
 ### **📈 My Goals**   
@@ -26,7 +27,7 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 
 ---
 
-## Skills
+## **Skills**
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
@@ -37,17 +38,6 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
-
----
-### **🛠️ Tech & Security Stack**  
-🔹 **SIEM & Log Analysis**: Splunk, Microsoft Sentinel
-🔹 **Incident Response**: Phishing investigation, basic malware analysis, IDS/IPS monitoring
-🔹 **Threat Intelligence**: MITRE ATT&CK, OSINT, CVE identification
-🔹 **Networking & Security**: TCP/IP, Firewalls, VPNs
-🔹 **Security Tools**: Wireshark, Nmap, Nessus, VirusTotal
-🔹 **Scripting & Automation**: Basic Python, Bash, PowerShell
-🔹 **OS**: Linux (Kali, Ubuntu), Windows Server
-🔹 **Risk & Compliance**: NIST, ISO 27001, SOC procedures
 
 ---
 
