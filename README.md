@@ -7,39 +7,17 @@
   <img src="https://img.shields.io/badge/-GitHub-181717?&style=for-the-badge&logo=github&logoColor=white" />
 </a>
 
-<a href="https://www.instagram.com/genesisvarelli/">
-  <img src="https://img.shields.io/badge/-Instagram-E4405F?&style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-
 ---
 
 ### **🛡️ About Me**  
-Cybersecurity professional with a Computer Science background and a strong focus on Security Operations (SOC), Threat Detection, and Incident Response. 
-Skilled in log analysis, SIEM tools (Splunk, Microsoft Sentinel), and network security, with hands-on experience in cyber threat intelligence and risk analysis. 
-Passionate about protecting organisations from cyber threats, ensuring compliance, and strengthening security postures with a proactive, results-driven approach.
+SOC Analyst with 2+ years in threat investigation, SIEM tuning, and incident response across government, public, and SME environments. Experienced in QA testing for secure government applications, enhancing system reliability and security. Focused on blue team operations, improving threat detection, and staying ahead of evolving cyber threats.
 
 ---
 
 ### **📈 My Goals**   
-✅ Master **incident detection & response**.  
+✅ Develop my cybersecurity skills and teach others who want to learn.
 ✅ Build a strong **GitHub portfolio** with cybersecurity-related projects & automation scripts.  
 ✅ Stay ahead in **offensive & defensive security**. 
-
----
-
-## **🚀 Skills**
-
-| Skill                                         | Associated Project         |
-|-----------------------------------------------|----------------------------|
-| SIEM Implementation & Log Analysis           | <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">Detection Lab</a>              |
-| Network Traffic Analysis & Threat Detection  | <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">Detection Lab</a>              |
-| IDS/IPS Deployment & Alert Tuning            | <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">Detection Lab</a>              |
-| Threat Hunting & Anomaly Detection           | Threat Analysis Lab        |
-| Incident Response & Forensic Investigation   | SOC Investigation Lab      |
-| Security Automation & Playbook Development   | SOC Automation Lab         |
-| Risk Assessment & Mitigation Strategies      | <a href="https://github.com/GenesisVarelli/DATACOM-Comprehensive-Risk-Assessment">Risk Assessment Lab</a>        |
-| Scripting & Process Automation               | SOC Automation Lab         |
-
 
 ---
 
@@ -61,14 +39,16 @@ Passionate about protecting organisations from cyber threats, ensuring complianc
 ---
 ## **🎓 Certifications**
 <div>
-<img src="https://img.shields.io/badge/-Let'sDefend%20SOC%20Analyst-1f8ef1?&style=for-the-badge&logo=letsdefend&logoColor=white" />
-<img src="https://img.shields.io/badge/-IBM%20Agile%20&%20Scrum-052FAD?&style=for-the-badge&logo=IBM&logoColor=white" />
-<img src="https://img.shields.io/badge/-Emergency%20First%20Aid%20at%20Work-008000?&style=for-the-badge&logo=first-aid&logoColor=white" />
+<img src="https://img.shields.io/badge/-BSc%20(Hons)%20Computer%20Science%20with%20Cyber%20Security-1f8ef1?&style=for-the-badge&logo=university&logoColor=white" />
+<img src="https://img.shields.io/badge/-SOC%20Analyst%20TryHackMe-1f8ef1?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+<img src="https://img.shields.io/badge/-Certified%20Email%20Authentication%20Specialist%20Proofpoint-1f8ef1?&style=for-the-badge&logo=proofpoint&logoColor=white" />
+<img src="https://img.shields.io/badge/-Junior%20Cybersecurity%20Analyst%20Cisco-1f8ef1?&style=for-the-badge&logo=cisco&logoColor=white" />
+
 
 </div>
 
 ---
 ## **🌟 Projects**
-- <a href="https://github.com/GenesisVarelli/Real-World-Security-Monitoring-Threat-Detection">**Home Lab: Real-World Security Monitoring & Threat Detection**</a>
-- <a href="https://github.com/GenesisVarelli/DATACOM-Comprehensive-Risk-Assessment">**Cybersecurity Comprehensive Risk Assessment**</a>
+- <a href="https://github.com/GenesisVarelli/Threat-Detection-Home-Lab">**Threat Detection Home Lab**</a>
+- <a href="https://github.com/GenesisVarelli/Cloud-Based-Threat-Detection-Home-Lab">**Cloud-Based: Threat Detection Home Lab**</a>
 ---
