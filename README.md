@@ -15,7 +15,7 @@ SOC Analyst with 2+ years in threat investigation, SIEM tuning, and incident res
 ---
 
 ### **📈 My Goals**   
-✅ Develop my cybersecurity skills and teach others who want to learn.
+✅ Develop my cybersecurity skills and teach others who want to learn. 
 ✅ Build a strong **GitHub portfolio** with cybersecurity-related projects & automation scripts.  
 ✅ Stay ahead in **offensive & defensive security**. 
 
